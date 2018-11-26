@@ -1,7 +1,7 @@
 # webcrawlerexercise
 Exercise Web Crawler
 
-1.Install the required software.
+1. Install the required software.
 
 2. Clone the repo into local directory.
 
