@@ -15,6 +15,7 @@ Copy the jar into any directory where you want to run/execute the program.
 Execute the following command.
 
 java [Domain for crawling] [seed url] [no of parallel threads] [output file for the program]
+
 For eg:
 
 java https://wiprodigital.com https://wiprodigital.com 64 sitemapout.json
