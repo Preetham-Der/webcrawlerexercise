@@ -23,9 +23,11 @@ For eg:
 
 java https://wiprodigital.com https://wiprodigital.com 64 sitemapout.json
 
-Requirements
-[Gradle 4.8.1] (http://www.gradle.org)
-Java 1.8
+Requirements.
+
+    [Gradle 4.8.1] (http://www.gradle.org)
+
+    Java 1.8
 
 More things to do
   
