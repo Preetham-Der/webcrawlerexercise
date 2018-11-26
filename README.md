@@ -23,3 +23,25 @@ java https://wiprodigital.com https://wiprodigital.com 64 sitemapout.json
 Requirements
 [Gradle 4.8.1] (http://www.gradle.org)
 Java 1.8
+
+More things to do
+  
+  1.Security
+    Support for authentication for the application.
+    Crawl using proxy.
+    Leverage SSL based crawling.
+
+  2.Runtime Control
+    Pause/Stop/Restart support.
+
+  3.External Configuration
+    More configuration parameters such as seed, thread etc should be supported at the external configuration level.
+
+  4.Functionality support
+    Support for HTTP POST/REDIRECT.
+    Multiple seed url.
+    Subdomain aware.
+
+  5.Testing 
+    Dont have time for implementing and test contracts. Needs more dev for pure unit testing.
+
