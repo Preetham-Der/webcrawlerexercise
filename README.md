@@ -22,7 +22,7 @@ java [Domain for crawling] [seed url] [no of parallel threads] [output file for 
 
 For eg:
 
-java https://wiprodigital.com https://wiprodigital.com 64 sitemapout.json
+java -jar webcrawlerown.jar https://wiprodigital.com https://wiprodigital.com 64 sitemapout.json
 
 Requirements.
 
